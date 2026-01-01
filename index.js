@@ -4,3 +4,5 @@ console.log("This is a simple Node.js application.");
 console.log("pasindu"); 
 
 console.log("This line was added later.");
+
+console.log("Additional line for demonstration.");
